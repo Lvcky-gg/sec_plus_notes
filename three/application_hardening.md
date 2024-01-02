@@ -37,3 +37,17 @@
   - account limitation
 - network access and security
 - monitor and secure
+
+## Patch Management
+
+- incredibly important
+- monthly updates
+- third-party updates
+- auto update
+- emergency out of band updates(ZERO DAY)
+
+## Sandboxing
+
+- apps cannot access unrelated resources
+- used during development commonly
+- used in many different deployments
