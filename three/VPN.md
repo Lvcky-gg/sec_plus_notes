@@ -51,3 +51,10 @@
 - anti-replay
 
 ## AH and ESP- combine the two
+
+## HTML5 VPNs
+
+- html
+- includes comprehensive API support
+- create vpn tunnel without seperate vpn app
+- use a compliant browser
